@@ -1,0 +1,18 @@
+[class^="container"] {
+  height: 100vh;
+}
+
+.row {
+  height: 100vh;
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.row .form-label {
+  font-size: 18px;
+}
+.col-md-6 {
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
+  border-radius: 15px;
+}
